@@ -1,0 +1,6 @@
+.idea
+logs
+out
+*.iml
+*.log
+epam_jwd
